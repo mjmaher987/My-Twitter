@@ -1,4 +1,4 @@
-#Coded by Mohammad Javad Maheronnaghsh
+//Coded by Mohammad Javad Maheronnaghsh
 
 #include <stdio.h>
 #include <winsock2.h>
