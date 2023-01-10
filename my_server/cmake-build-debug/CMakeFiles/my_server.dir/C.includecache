@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Y:/Last Project/my_server/main.c
+stdio.h
+-
+winsock2.h
+-
+time.h
+-
+stdlib.h
+-
+string.h
+-
+conio.h
+-
+dirent.h
+-
+

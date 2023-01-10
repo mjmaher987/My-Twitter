@@ -1,0 +1,3 @@
+Y:/Last Project/my_server/cmake-build-debug/CMakeFiles/my_server.dir
+Y:/Last Project/my_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+Y:/Last Project/my_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
