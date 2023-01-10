@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Y:/Last Project/client/client/main.c
+stdio.h
+-
+winsock2.h
+-
+string.h
+-
+stdlib.h
+-
+windows.h
+-
+time.h
+-
+
